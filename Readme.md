@@ -27,8 +27,11 @@ ATP steht für **Annual Trainingplan**
 ### CTL
 ### TSB
 ### Laktatschwelle
-### Leistungsbezogene anerobe Schwelle
+Die Laktatschwelle ist individuell und bezeichnet einen Punkt im Stoffwechsel, bis zu dem sich Laktataufbau und -abbau die Waage halten. Mit zunehmenden Tempo überschreitet man diese Schwelle und es reichert sich immer mehr Laktat in der Muskulatur und im Blutkreislauf an.
 
+Achtung: Der werd variert unter den verschiedenen Sportarten aufgrund der Muskelgruppen die verwendet werden.
+### Leistungsbezogene anerobe Schwelle
+Siehe Laktatschwelle.
 ## Links
  Link | Beschreibubg
  ---- | ------------
@@ -36,3 +39,4 @@ ATP steht für **Annual Trainingplan**
  https://www.trainingpeaks.com/coach-blog/a-coachs-guide-to-atl-ctl-tsb/ | A coach´s guide to atl ctl and tsb
  https://www.trainingpeaks.com/blog/planning-for-a-marathon-pr-with-fitness-ctl-and-the-atp-tool/ | Marathon Planning with ATP
  https://pushing-limits.de/triathlon/ctl-atl-tsb-erklaert-metriken-fuer-fitness-ermuedung-und-form/ | CTL ATL TSB erklärt
+ https://www.trainingsworld.com/sportexperten/trainingsbereiche-ausdauersport-grundlagentraining-schwellentraining-2907289 | Trainingsbereiche, Grundlagentraining, Schwellentraining
